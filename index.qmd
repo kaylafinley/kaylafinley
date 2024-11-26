@@ -1,11 +1,15 @@
 ---
-title: "kaylafinley"
+title: "Kayla Finley"
+image: IMG_4913.jpeg
+about: 
+  template: trestles
+  image-shape: rounded
+  image-width: 15em
+  links:
+    - text: LinkedIn
+      href: www.linkedin.com/in/kayla-l-finley
+    - text: GitHub
+      href: https://github.com/kaylafinley
+    - text: Email
+      href: kayla.finley@colostate.edu
 ---
-
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```

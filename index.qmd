@@ -1,10 +1,11 @@
 ---
 title: "Kayla Finley"
 image: IMG_4913.jpeg
-about: 
-  template: trestles
+toc: false 
+about:
+  template: broadside
   image-shape: rounded
-  image-width: 15em
+  image-width: 14em
   links:
     - text: LinkedIn
       href: www.linkedin.com/in/kayla-l-finley

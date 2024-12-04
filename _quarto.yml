@@ -8,13 +8,16 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - projects.qmd
+      - relevant_experience.qmd
+      - future_goals.qmd
 
 format:
   html:
     theme: minty
     css: styles.css
     toc: true
+    page-layout: full
 
 editor: visual
 

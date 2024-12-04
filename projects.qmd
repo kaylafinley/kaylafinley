@@ -1,0 +1,43 @@
+---
+title: "Projects"
+---
+
+**Colorado State University Practicing Sustainability Capstone Project**
+
+· Collaborated with CitSci, Leave No Trace, and classmates to plan and execute the Leave No Trash University Challenge.
+
+· Project had a strong focus on outreach and public engagement including creating promotional material and contacting organizations on campus to join the challenge.
+
+· Planned and organized Leave No Trash Trivia, an event to educate participants on Leave No Trace principles and the importance of proper waste disposal.
+
+· Translated data into readable and understandable infographics that are open to the public.
+
+· Resulted in getting 184 people involved in the project and 988 gallons of trash picked up from community.
+
+![Infographic representing data from projects.](Leave%20no%20trash%20in%20Numbers%20(1)%20(1)%20(1).jpg){fig-align="center"}
+
+**Life Cycle Assessment for Sustainability**
+
+· Conducted a comparative assessment of the environmental impacts of fossil-based plastic straws versus stainless steel (metal straws).
+
+· Used openLCA and data from Ecoinvent to calculate the global warming impact of the two types of straws from cradle to gate and presented results in a final report and presentation.
+
+**Global Perspectives of Sustainability** – Fort Collins, CO                                                                            Spring 2024
+
+·       Collaborated with peers to conduct a sustainability assessment for Peru.
+
+·       Considered history, population, economic status, ecological status and major societal challenges to create a sustainable development plan that coincides with Sustainable Development Goals.
+
+**Foundations for Carbon / Greenhouse Gas Management** – Fort Collins, CO                                                  Fall 2023
+
+·       Worked in a group to conduct a full assessment of the India and their ability to reach climate targets.
+
+·       Participated in a mock negotiation to work with other countries to reach climate goals.
+
+**Sustainability Science** – Fort Collins, COSpring 2022
+
+·       Worked with a group to research Colorado State University student transportation use to determine ways to encourage students to choose a more sustainable option.
+
+·       Created a survey to get information from students and interviewed the Director of Alternative Transportation at CSU. Presented results to peers and professors. [\[KF1\]](#_msocom_1) 
+
+ [\[KF1\]](#_msoanchor_1)Add R project

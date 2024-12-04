@@ -1,16 +1,23 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
-  },
-  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Kayla Finley",
     "section": "",
     "text": "I am a graduate student in the Professional Science Master’s Program in Ecosystem Science and Sustainability at Colorado State University. I am focusing on Carbon Management. I have a passion for renewable energy implementation, environmental justice, and public engagement.\nThrough my work as an Outreach and Project Coordinator at the Energy Institute and Environmental Educator Intern at the Environmental Learning Center, I have learned the skills to communicate complex information about renewable energy, and environmental systems to the general public, with an emphasis on K - 12."
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Colorado State University Practicing Sustainability Capstone Project\n· Collaborated with CitSci, Leave No Trace, and classmates to plan and execute the Leave No Trash University Challenge.\n· Project had a strong focus on outreach and public engagement including creating promotional material and contacting organizations on campus to join the challenge.\n· Planned and organized Leave No Trash Trivia, an event to educate participants on Leave No Trace principles and the importance of proper waste disposal.\n· Translated data into readable and understandable infographics that are open to the public.\n· Resulted in getting 184 people involved in the project and 988 gallons of trash picked up from community.\n\n\n\nInfographic representing data from projects.\n\n\nLife Cycle Assessment for Sustainability\n· Conducted a comparative assessment of the environmental impacts of fossil-based plastic straws versus stainless steel (metal straws).\n· Used openLCA and data from Ecoinvent to calculate the global warming impact of the two types of straws from cradle to gate and presented results in a final report and presentation.\nGlobal Perspectives of Sustainability – Fort Collins, CO                                                                            Spring 2024\n·       Collaborated with peers to conduct a sustainability assessment for Peru.\n·       Considered history, population, economic status, ecological status and major societal challenges to create a sustainable development plan that coincides with Sustainable Development Goals.\nFoundations for Carbon / Greenhouse Gas Management – Fort Collins, CO                                                  Fall 2023\n·       Worked in a group to conduct a full assessment of the India and their ability to reach climate targets.\n·       Participated in a mock negotiation to work with other countries to reach climate goals.\nSustainability Science – Fort Collins, COSpring 2022\n·       Worked with a group to research Colorado State University student transportation use to determine ways to encourage students to choose a more sustainable option.\n·       Created a survey to get information from students and interviewed the Director of Alternative Transportation at CSU. Presented results to peers and professors. [KF1] \n [KF1]Add R project"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
   }
 ]

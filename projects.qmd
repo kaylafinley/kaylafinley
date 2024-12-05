@@ -2,42 +2,72 @@
 title: "Projects"
 ---
 
-**Colorado State University Practicing Sustainability Capstone Project**
+### **Climate Impacts and Risk Assessment**  
 
-· Collaborated with CitSci, Leave No Trace, and classmates to plan and execute the Leave No Trash University Challenge.
+-   Worked with a group to create a climate impact and risk assessment, and adaptive management strategy plan for water scarcity in Indigenous Communities along the Colorado River Basin.
 
-· Project had a strong focus on outreach and public engagement including creating promotional material and contacting organizations on campus to join the challenge.
+-   Communicated assessments through concise reports, figures, and a presentation.
 
-· Planned and organized Leave No Trash Trivia, an event to educate participants on Leave No Trace principles and the importance of proper waste disposal.
+    ![](images/clipboard-1194111014.png){width="528" height="413"}
 
-· Translated data into readable and understandable infographics that are open to the public.
+### **Practicing Sustainability Capstone Project**
 
-· Resulted in getting 184 people involved in the project and 988 gallons of trash picked up from community.
+-   Collaborated with CitSci, Leave No Trace, and classmates to plan and execute the Leave No Trash University Challenge.
 
-![Infographic representing data from projects.](Leave%20no%20trash%20in%20Numbers%20(1)%20(1)%20(1).jpg){fig-align="center"}
+-   Project had a strong focus on outreach and public engagement including creating promotional material and contacting organizations on campus to join the challenge.
 
-**Life Cycle Assessment for Sustainability**
+-   Planned and organized Leave No Trash Trivia, an event to educate participants on Leave No Trace principles and the importance of proper waste disposal.
 
-· Conducted a comparative assessment of the environmental impacts of fossil-based plastic straws versus stainless steel (metal straws).
+-   Translated data into readable and understandable infographics that are open to the public.
 
-· Used openLCA and data from Ecoinvent to calculate the global warming impact of the two types of straws from cradle to gate and presented results in a final report and presentation.
+-   Resulted in getting 184 people involved in the project and 988 gallons of trash picked up from community.
 
-**Global Perspectives of Sustainability** – Fort Collins, CO                                                                            Spring 2024
+    ![](Leave no trash in Numbers (1) (1) (1).jpg){width="520"}
 
-·       Collaborated with peers to conduct a sustainability assessment for Peru.
+### **Life Cycle Assessment for Sustainability**
 
-·       Considered history, population, economic status, ecological status and major societal challenges to create a sustainable development plan that coincides with Sustainable Development Goals.
+-   Conducted a comparative assessment of the environmental impacts of fossil-based plastic straws versus stainless steel (metal straws).
 
-**Foundations for Carbon / Greenhouse Gas Management** – Fort Collins, CO                                                  Fall 2023
+-   Used openLCA and data from Ecoinvent to calculate the global warming impact of the two types of straws from cradle to gate and presented results in a final report and presentation.
 
-·       Worked in a group to conduct a full assessment of the India and their ability to reach climate targets.
+[Global Warming Potential Between Plastic and Metal Straws Report](https://www.icloud.com/iclouddrive/0797PfQnKf22IoFnnp7HFgvUw#Global_Warming_Potential_Between_Plastic_and_Metal_Straws)
 
-·       Participated in a mock negotiation to work with other countries to reach climate goals.
+![]()
 
-**Sustainability Science** – Fort Collins, COSpring 2022
+![](Screen%20Shot%202024-12-04%20at%209.00.33%20AM.png){fig-align="center" width="522"}
 
-·       Worked with a group to research Colorado State University student transportation use to determine ways to encourage students to choose a more sustainable option.
+### **Foundations for Carbon / Greenhouse Gas Management** 
 
-·       Created a survey to get information from students and interviewed the Director of Alternative Transportation at CSU. Presented results to peers and professors. [\[KF1\]](#_msocom_1) 
+-   Worked in a group to conduct a full assessment of the India and their ability to reach climate targets.
 
- [\[KF1\]](#_msoanchor_1)Add R project
+-   Participated in a mock negotiation to work with other countries to reach climate goals.
+
+### **Sustainability Science** 
+
+-   Worked with a group to research Colorado State University student transportation use to determine ways to encourage students to choose a more sustainable option.
+
+-   Created a survey to get information from students and interviewed the Director of Alternative Transportation at CSU. Presented results to peers and professors.  
+
+    ![](images/CIP Poster.jpg)
+
+### **Global Perspectives of Sustainability** 
+
+-   Collaborated with peers to conduct a sustainability assessment for Peru.
+
+-   Considered history, population, economic status, ecological status and major societal challenges to create a sustainable development plan that coincides with Sustainable Development Goals.
+
+### **Quantitative Reasoning for Ecosystem Science**
+
+-   Worked with a partner to compile air quality and income data for all the counties in Colorado to determine if there is a relationship between income and air quality.
+
+-   Used R Studio to sort and clean data, and then conduct statistical tests.
+
+![](images/Screen Shot 2024-12-04 at 5.31.53 PM.png){fig-align="center" width="480"}
+
+![](images/Screen Shot 2024-12-04 at 5.32.21 PM.png){fig-align="center" width="485"}
+
+### **Introduction to Geographic Information Systems** 
+
+-   Used ArcGIS to create a map representing all of the places I have camped in the United States, and which states I camped in with the most frequency.
+
+![](Screen Shot 2024-12-04 at 4.45.41 PM.png)

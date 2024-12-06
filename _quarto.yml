@@ -11,6 +11,7 @@ website:
       - projects.qmd
       - relevant_experience.qmd
       - future_goals.qmd
+      - contact.qmd
 
 format:
   html:
